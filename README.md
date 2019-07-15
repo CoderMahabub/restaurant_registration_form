@@ -1,0 +1,2 @@
+# restaurant_registration_form
+Whether you run a blog with recipes, a restaurant or any other food-related project, we have a free Bootstrap registration form for you. Bear in mind, if the style resonates with you, you can use this layout for any other project you want. There is no need to feel limited in any way, shape or form. Go against the norm and create a spectacular registration form that will follow your needs and regulations to a T. It has rounded edges, exclusive space for an image on the left side and preset fields that are required to enter your member’s area.
